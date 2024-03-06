@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiovaniPurgatti
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java language and other tools on the udemy platform.
-- 🌱 I’m currently learning C language, HTML, CSS and Javascript in college.
+- 🌱 I’m currently learning C and C# language, HTML, CSS and Javascript in college.
 - 💞️ I'm looking to collaborate on myself to evolve my abilities and be better day after day.
 - 📫 How to reach me email: giovanipurgattibezerra01@gmail.com or giovanipurgatti01@gmail.com
 
